@@ -1,0 +1,22 @@
+Hello Everyone!!!!!
+
+Created a github repo for the project. Then started working on project in vscode. 
+
+Initial Setup and commands
+-We have a main folder DigiAsset
+-Open terminal
+-Type 'npm init'
+-type package name and other details
+
+Install and Initialize Hardhat for building and test smart contract
+-open terminal
+-type "npm install --save-dev hardhat"
+-type "npx hardhat init" -> We create many folders for us.
+-install the recommended npm package by hardhat by copying and pasting command.
+
+Now delete already present demo file under contracts folder we will create our own to write smart contract.
+
+Install another package OpenZepplin which will help us in writing smart contract
+-type npm install @openzeppelin/contracts
+
+And now we write our smart contract.
