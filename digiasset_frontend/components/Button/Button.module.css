@@ -1,13 +1,13 @@
 .button{
     background-color: var(--icons-color);
-    padding:1rem 2rem;
+    padding:.5rem 2rem;
     border:1px solid var(--icons-color);
     font-size:1.1rem;
     color:var(--shadow-light-color);
     cursor: pointer;
     transition:all .2s ease-in;
     box-shadow: var(--box-shadow);
-    border-radius: 20px;
+    border-radius: 10px;
 }
 
 .button:hover{
