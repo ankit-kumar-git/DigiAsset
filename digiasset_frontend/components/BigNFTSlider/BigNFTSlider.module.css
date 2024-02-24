@@ -8,6 +8,7 @@
     display: grid;
     grid-template-columns: repeat(17, 1fr);
     align-items: center;
+    margin-bottom: 6rem;
 }
 
 .bigNFTSlider_box_left{

@@ -11,6 +11,7 @@ import {
   Filter,
   NFTCard,
   Collection,
+  AudioLive,
 } from "../components/componentsindex";
 const Home = () => {
   return (
@@ -18,6 +19,11 @@ const Home = () => {
       <HeroSection />
       <Service />
       <BigNFTSlider />
+      <Title
+        heading="Latest Audio Collections"
+        paragraph="Discover the most outstanding NFTs of all topics of life"
+      />
+      <AudioLive />
       <Title
         heading="New Collections"
         paragraph="Discover the most outstanding NFTs of all topics of life"
