@@ -1,7 +1,7 @@
 .audioCard_box{
     display: grid;
     grid-template-columns: repeat(5, 1fr);
-    grid-template-rows: repeat(6, 4rem);
+    grid-template-rows: repeat(6, 3.5rem);
     gap: 1rem;
     overflow: hidden;
     transition:  all .3s ease-in;
@@ -107,6 +107,7 @@
     border-top-right-radius: 2rem;
     padding: 2rem;
     line-height: .1;
+    /* margin-top: -3rem; */
 }
 
 .audioCard_box_details_info h4{

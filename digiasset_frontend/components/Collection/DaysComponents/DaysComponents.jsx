@@ -60,7 +60,6 @@ const DaysComponents = () => {
               />
 
               <p>
-                Creator
                 <span>
                   Ankit Kumar
                   <small>
