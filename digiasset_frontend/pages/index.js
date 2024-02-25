@@ -13,6 +13,7 @@ import {
   Collection,
   AudioLive,
   FollowerTab,
+  Slider
 } from "../components/componentsindex";
 const Home = () => {
   return (
@@ -26,6 +27,11 @@ const Home = () => {
       />
       <AudioLive />
       <FollowerTab />
+      {/* <Title
+        heading="Explore NFTs Video"
+        paragraph="Click on the play icon and enjoy the NFT videos"
+      /> */}
+      <Slider />
       <Collection />
       <Title
         heading="Featured NFTs"
