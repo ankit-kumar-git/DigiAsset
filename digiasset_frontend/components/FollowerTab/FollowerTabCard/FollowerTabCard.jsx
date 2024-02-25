@@ -28,7 +28,7 @@ const FollowerTabCard = ({ i, el }) => {
             className={Style.FollowerTabCard_box_img_img}
             src={el.background}
             alt="profile braground"
-            width={400}
+            width={500}
             height={200}
             objectFit="cover"
           />

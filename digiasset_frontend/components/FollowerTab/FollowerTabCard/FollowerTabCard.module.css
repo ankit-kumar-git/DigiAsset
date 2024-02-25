@@ -71,11 +71,12 @@
 
 .FollowerTabCard_box_info{
     grid-column: 1/-1;
+    /* gap:1rem; */
     display: flex;
     align-items: center;
     line-height: 0;
     justify-content: space-between;
-    margin-top: -1rem;
+    /* margin-top: -1rem; */
     padding-inline: 1rem;
     padding-bottom: 1rem;
 }
@@ -83,6 +84,7 @@
 .FollowerTabCard_box_info h4{
     font-size: 1rem;
     line-height: 0;
+    /* margin-right: 4rem; */
 }
 
 .FollowerTabCard_box_info_following a{
