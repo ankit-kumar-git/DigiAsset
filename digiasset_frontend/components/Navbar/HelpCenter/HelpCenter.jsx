@@ -14,11 +14,11 @@ const HelpCenter = () => {
     },
     {
       name: "Sign Up",
-      link: "sign-up",
+      link: "signUp",
     },
     {
       name: "Sign In",
-      link: "sign-in",
+      link: "login",
     },
     {
       name: "Subscription",
